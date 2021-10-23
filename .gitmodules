@@ -1,0 +1,9 @@
+[submodule "understand-trending-infra"]
+	path = understand-trending-infra
+	url = https://github.com/quick-starters/understand-trending-infra
+[submodule "load-test"]
+	path = load-test
+	url = https://github.com/quick-starters/load-test
+[submodule "performance-monitoring"]
+	path = performance-monitoring
+	url = https://github.com/quick-starters/performance-monitoring
