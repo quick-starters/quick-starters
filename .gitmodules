@@ -7,3 +7,6 @@
 [submodule "performance-monitoring"]
 	path = performance-monitoring
 	url = https://github.com/quick-starters/performance-monitoring
+[submodule "redis"]
+	path = redis
+	url = https://github.com/quick-starters/redis
