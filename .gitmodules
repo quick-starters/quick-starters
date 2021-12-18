@@ -7,9 +7,9 @@
 [submodule "performance-monitoring"]
 	path = performance-monitoring
 	url = https://github.com/quick-starters/performance-monitoring
-[submodule "redis"]
-	path = redis
-	url = https://github.com/quick-starters/redis
 [submodule "redis-study"]
 	path = redis-study
 	url = git@github.com:quick-starters/redis-study.git
+[submodule "blockchain"]
+	path = blockchain
+	url = https://github.com/quick-starters/blockchain.git
