@@ -13,3 +13,6 @@
 [submodule "blockchain"]
 	path = blockchain
 	url = https://github.com/quick-starters/blockchain.git
+[submodule "ddd-study"]
+	path = ddd-study
+	url = git@github.com:quick-starters/ddd-study.git
