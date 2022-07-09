@@ -19,3 +19,9 @@
 [submodule "cloud-native"]
 	path = cloud-native
 	url = https://github.com/quick-starters/cloud-native.git
+[submodule "web-api-design"]
+	path = web-api-design
+	url = https://github.com/quick-starters/web-api-design.git
+[submodule "desigin-pattern"]
+	path = desigin-pattern
+	url = https://github.com/quick-starters/design-pattern.git
