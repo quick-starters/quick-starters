@@ -5,7 +5,7 @@
 |---|------|---|---|
 |12|[kafka](https://github.com/quick-starters/kafka)|카프카 실전 구축해보기|22.09.17 ~ 22.09.22|
 |11|[microservice](https://github.com/quick-starters/microservice)|마이크로서비스 아키텍처 구축|22.08.07 ~ 22.09.16|
-|10|[design-pattern](https://github.com/quick-starters/design-pattern)|컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커|22.07.12 ~ 22.07.30|
+|10|[design-pattern](https://github.com/quick-starters/design-pattern)|헤드 퍼스트 디자인 패턴|22.07.12 ~ 22.07.30|
 |9|[k8s-study](https://github.com/quick-starters/k8s-study)|컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커|22.05.20 ~ 22.06.30|
 |8|[web-api-design](https://github.com/quick-starters/web-api-design)|웹 API 디자인|22.04.20 ~ 22.05.12|
 |7|[cloud-native](https://github.com/quick-starters/cloud-native)|클라우드 네이티브 애플리케이션을 설계, 개발, 운영하는 핵심 가이드|22.03.01 ~ 22.04.16|
